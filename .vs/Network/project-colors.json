@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fce21e55-1b3e-4af1-84e1-5e15580f653d": {
+      "ProjectGuid": "fce21e55-1b3e-4af1-84e1-5e15580f653d",
+      "DisplayName": "Network",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
