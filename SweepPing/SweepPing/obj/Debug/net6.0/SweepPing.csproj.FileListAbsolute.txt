@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\bin\Debug\net6.0\SweepPing.exe
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\bin\Debug\net6.0\SweepPing.deps.json
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\bin\Debug\net6.0\SweepPing.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\bin\Debug\net6.0\SweepPing.dll
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\bin\Debug\net6.0\ref\SweepPing.dll
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\bin\Debug\net6.0\SweepPing.pdb
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.dll
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\ref\SweepPing.dll
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.pdb
+C:\Users\Lenovo\source\repos\SweepPing\SweepPing\obj\Debug\net6.0\SweepPing.genruntimeconfig.cache
